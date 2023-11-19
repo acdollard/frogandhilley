@@ -18,7 +18,7 @@ const ReturnPolicy = () => {
       <h1>Return Policy</h1>
       <div className="page_text">
         <p>Here at Frog and Hilley we want you to be so, so satisfied with your purchase.
-            if you are not, you may return the items within 30 business days along with a hand written letter
+            if you are not, you may return the items within 30 business days along with a handwritten letter
             that details the follwing:<br/>
             <br/> 1. Why you have such bad taste, and
             <br /> 2. How you got so silly. 
