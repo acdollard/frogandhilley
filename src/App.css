@@ -2,6 +2,7 @@
   display: block;
   font-family: 'Quicksand', sans-serif;
   font-weight: 500;
+  color: #282c34 ;
   background-color: #FAF9F6;
 }
 
@@ -15,10 +16,20 @@ body {
 
 ul {
   list-style-type: none;
+  margin: 20px;
+  padding: 0;
+}
+
+a:link {
+  color:#282c34 
+}
+
+a:visited {
+  color:#282c34 
 }
 
 .page_content {
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 
