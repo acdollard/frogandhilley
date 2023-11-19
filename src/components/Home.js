@@ -17,7 +17,7 @@ const Home = () => {
       </ul>
       <div className="page_content">
       <h1>Frog & Hilley: Clothiers</h1>
-      <img src={frog} style={{height:"500px", width:"500px"}} alt="frog"></img>
+      <img src={frog} style={{height:"400px", width:"400px"}} alt="frog"></img>
       </div>
       <br />
     </div>
