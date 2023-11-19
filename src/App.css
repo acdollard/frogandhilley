@@ -1,17 +1,27 @@
 .App {
-  text-align: center;
+  margin: 25px;
+  display: block;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  background-color: #FAF9F6;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #FAF9F6;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.return_policy {
+  max-width: 500px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+.page_content {
+  margin-left: 50px;
+}
+
 
 .App-header {
   background-color: #282c34;
